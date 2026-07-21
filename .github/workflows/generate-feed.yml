@@ -1,0 +1,63 @@
+name: Generate RSS feed
+
+on:
+  schedule:
+    # Daily 01:00 UTC (~09:00 HKT) — catch missed Saturday runs
+    - cron: "0 1 * * *"
+    # Saturday 13:00 UTC (~21:00 HKT) — after usual 20:00 broadcast
+    - cron: "0 13 * * 6"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - "generate_feed.py"
+      - ".github/workflows/generate-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-feed
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Resolve public feed URL
+        id: urls
+        shell: bash
+        run: |
+          # https://<owner>.github.io/<repo>/feed.xml for project Pages
+          OWNER="${{ github.repository_owner }}"
+          REPO="${{ github.event.repository.name }}"
+          SELF_URL="https://${OWNER}.github.io/${REPO}/feed.xml"
+          echo "self_url=${SELF_URL}" >> "$GITHUB_OUTPUT"
+          echo "Using self URL: ${SELF_URL}"
+
+      - name: Generate feed.xml
+        run: |
+          python generate_feed.py \
+            --out feed.xml \
+            --self-url "${{ steps.urls.outputs.self_url }}"
+
+      - name: Commit and push feed.xml
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          if git diff --staged --quiet; then
+            echo "No feed.xml changes."
+            exit 0
+          fi
+          git commit -m "chore: update feed.xml [skip ci]"
+          git push

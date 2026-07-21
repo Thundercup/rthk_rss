@@ -1,0 +1,23 @@
+# Local env / secrets (this project needs none; keep hygiene)
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Script temp
+feed.xml.tmp
