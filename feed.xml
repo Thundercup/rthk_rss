@@ -20,6 +20,14 @@
       <link>https://www.rthk.hk/radio/radio1/programme/People</link>
     </image>
     <item>
+      <title>伊本．巴圖達 (一) ︰以雙腳丈量世界的穆斯林</title>
+      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1128192</link>
+      <guid isPermaLink="false">rthk-people-1128192</guid>
+      <pubDate>Sat, 19 Sep 2026 20:00:00 +0800</pubDate>
+      <description>伊本．巴圖達 (一) ︰以雙腳丈量世界的穆斯林</description>
+      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20260919.m4a" type="audio/mp4" length="14700663" />
+    </item>
+    <item>
       <title>漢武帝 (十四)︰太子之死</title>
       <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1126904</link>
       <guid isPermaLink="false">rthk-people-1126904</guid>
@@ -426,14 +434,6 @@
       <pubDate>Sat, 27 Sep 2025 20:00:00 +0800</pubDate>
       <description>孫權 (二)︰兩漢楚文化</description>
       <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20250927.m4a" type="audio/mp4" length="13436643" />
-    </item>
-    <item>
-      <title>孫權 (一)︰江東</title>
-      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1048522</link>
-      <guid isPermaLink="false">rthk-people-1048522</guid>
-      <pubDate>Sat, 20 Sep 2025 20:00:00 +0800</pubDate>
-      <description>孫權 (一)︰江東</description>
-      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20250920.m4a" type="audio/mp4" length="13502807" />
     </item>
   </channel>
 </rss>
