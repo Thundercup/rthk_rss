@@ -20,6 +20,14 @@
       <link>https://www.rthk.hk/radio/radio1/programme/People</link>
     </image>
     <item>
+      <title>伊本．巴圖達 (二)：埃及馬木留克王朝的法學家</title>
+      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1128194</link>
+      <guid isPermaLink="false">rthk-people-1128194</guid>
+      <pubDate>Sat, 26 Sep 2026 20:00:00 +0800</pubDate>
+      <description>伊本．巴圖達 (二)：埃及馬木留克王朝的法學家</description>
+      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20260926.m4a" type="audio/mp4" length="14705006" />
+    </item>
+    <item>
       <title>伊本．巴圖達 (一) ︰以雙腳丈量世界的穆斯林</title>
       <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1128192</link>
       <guid isPermaLink="false">rthk-people-1128192</guid>
@@ -426,14 +434,6 @@
       <pubDate>Sat, 04 Oct 2025 20:00:00 +0800</pubDate>
       <description>孫權 (三)︰孫氏崛起</description>
       <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251004.m4a" type="audio/mp4" length="12804347" />
-    </item>
-    <item>
-      <title>孫權 (二)︰兩漢楚文化</title>
-      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1050154</link>
-      <guid isPermaLink="false">rthk-people-1050154</guid>
-      <pubDate>Sat, 27 Sep 2025 20:00:00 +0800</pubDate>
-      <description>孫權 (二)︰兩漢楚文化</description>
-      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20250927.m4a" type="audio/mp4" length="13436643" />
     </item>
   </channel>
 </rss>
