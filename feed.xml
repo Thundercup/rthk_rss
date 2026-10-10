@@ -20,6 +20,14 @@
       <link>https://www.rthk.hk/radio/radio1/programme/People</link>
     </image>
     <item>
+      <title>伊本．巴圖達 (四)：強大的金帳與衰落的拜占庭</title>
+      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1131209</link>
+      <guid isPermaLink="false">rthk-people-1131209</guid>
+      <pubDate>Sat, 10 Oct 2026 20:00:00 +0800</pubDate>
+      <description>伊本．巴圖達 (四)：強大的金帳與衰落的拜占庭</description>
+      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20261010.m4a" type="audio/mp4" length="14703431" />
+    </item>
+    <item>
       <title>伊本．巴圖達 (三)：安納托利亞與阿赫兄弟會</title>
       <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1131207</link>
       <guid isPermaLink="false">rthk-people-1131207</guid>
@@ -426,14 +434,6 @@
       <pubDate>Sat, 18 Oct 2025 20:00:00 +0800</pubDate>
       <description>孫權 (五)︰孫權繼業</description>
       <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251018.m4a" type="audio/mp4" length="12856314" />
-    </item>
-    <item>
-      <title>孫權 (四)︰江東小霸王</title>
-      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1053039</link>
-      <guid isPermaLink="false">rthk-people-1053039</guid>
-      <pubDate>Sat, 11 Oct 2025 20:00:00 +0800</pubDate>
-      <description>孫權 (四)︰江東小霸王</description>
-      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251011.m4a" type="audio/mp4" length="13975684" />
     </item>
   </channel>
 </rss>
