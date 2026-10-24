@@ -20,6 +20,14 @@
       <link>https://www.rthk.hk/radio/radio1/programme/People</link>
     </image>
     <item>
+      <title>伊本．巴圖達 (六) ︰印度德里蘇丹國的法官</title>
+      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1135284</link>
+      <guid isPermaLink="false">rthk-people-1135284</guid>
+      <pubDate>Sat, 24 Oct 2026 20:00:00 +0800</pubDate>
+      <description>伊本．巴圖達 (六) ︰印度德里蘇丹國的法官</description>
+      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20261024.m4a" type="audio/mp4" length="14700505" />
+    </item>
+    <item>
       <title>伊本．巴圖達 (五) ︰花剌子模的復興</title>
       <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1134091</link>
       <guid isPermaLink="false">rthk-people-1134091</guid>
@@ -426,14 +434,6 @@
       <pubDate>Sat, 01 Nov 2025 20:00:00 +0800</pubDate>
       <description>孫權 (七)︰孫權稱帝</description>
       <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251101.m4a" type="audio/mp4" length="13412365" />
-    </item>
-    <item>
-      <title>孫權 (六)︰赤壁之戰</title>
-      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1054521</link>
-      <guid isPermaLink="false">rthk-people-1054521</guid>
-      <pubDate>Sat, 25 Oct 2025 20:00:00 +0800</pubDate>
-      <description>孫權 (六)︰赤壁之戰</description>
-      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251025.m4a" type="audio/mp4" length="13605173" />
     </item>
   </channel>
 </rss>
