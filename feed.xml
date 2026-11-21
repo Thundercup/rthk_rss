@@ -20,6 +20,14 @@
       <link>https://www.rthk.hk/radio/radio1/programme/People</link>
     </image>
     <item>
+      <title>伊本．巴圖達 (十)︰獻給嚮往城市奇觀與旅行奇遇者的禮物</title>
+      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1138822</link>
+      <guid isPermaLink="false">rthk-people-1138822</guid>
+      <pubDate>Sat, 21 Nov 2026 20:00:00 +0800</pubDate>
+      <description>伊本．巴圖達 (十)︰獻給嚮往城市奇觀與旅行奇遇者的禮物</description>
+      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20261121.m4a" type="audio/mp4" length="14706718" />
+    </item>
+    <item>
       <title>伊本．巴圖達 (九)︰踏上歸途與黑死病肆虐</title>
       <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1138821</link>
       <guid isPermaLink="false">rthk-people-1138821</guid>
@@ -426,14 +434,6 @@
       <pubDate>Sat, 29 Nov 2025 20:00:00 +0800</pubDate>
       <description>利瑪竇 (三)︰澳門傳教士</description>
       <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251129.m4a" type="audio/mp4" length="12726779" />
-    </item>
-    <item>
-      <title>利瑪竇 (二)︰耶穌會士</title>
-      <link>https://www.rthk.hk/radio/radio1/programme/People/episode/1061357</link>
-      <guid isPermaLink="false">rthk-people-1061357</guid>
-      <pubDate>Sat, 22 Nov 2025 20:00:00 +0800</pubDate>
-      <description>利瑪竇 (二)︰耶穌會士</description>
-      <enclosure url="https://archive.rthk.hk/mp3/radio/archive/radio1/People/m4a/20251122.m4a" type="audio/mp4" length="13531224" />
     </item>
   </channel>
 </rss>
